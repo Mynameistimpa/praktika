@@ -1,2 +1,3 @@
-# praktika
-first praktik github
+привет здесь я буду практиковаться 
+
+желаю удачи
