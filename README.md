@@ -1,0 +1,2 @@
+# praktika
+first praktik github
